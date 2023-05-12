@@ -1,4 +1,4 @@
-# Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth
+# Heuristic Weakly Supervised 3D Human Pose Estimation
 
 ![HWS](images/HWS.png)
 This demo repo 
@@ -92,18 +92,12 @@ This code refers to the following repositories. Please also respect their LICENS
 ## Citation 
 If you find this work helpful, please cite the following works. 
 @article{liu2023heuristic,
-  title={Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth},
+  title={Heuristic Weakly Supervised 3D Human Pose Estimation},
   author={Liu, Shuangjun and Wan, Michael and Ostadabbas, Sarah},
   journal={arXiv preprint arXiv:2105.10996},
   year={2023}
 }
 
-@article{liu2020simultaneously,
-  title={Simultaneously-collected multimodal lying pose dataset: Towards in-bed human pose monitoring under adverse vision conditions},
-  author={Liu, Shuangjun and Huang, Xiaofei and Fu, Nihang and Li, Cheng and Su, Zhongnan and Ostadabbas, Sarah},
-  journal={arXiv preprint arXiv:2008.08735},
-  year={2020}
-}
 
 
 
