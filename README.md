@@ -91,11 +91,11 @@ This code refers to the following repositories. Please also respect their LICENS
 
 ## Citation 
 If you find this work helpful, please cite the following works. 
-@article{liu2021heuristic,
+@article{liu2023heuristic,
   title={Heuristic Weakly Supervised 3D Human Pose Estimation in Novel Contexts without Any 3D Pose Ground Truth},
-  author={Liu, Shuangjun and Huang, Xiaofei and Fu, Nihang and Ostadabbas, Sarah},
+  author={Liu, Shuangjun and Wan, Michael and Ostadabbas, Sarah},
   journal={arXiv preprint arXiv:2105.10996},
-  year={2021}
+  year={2023}
 }
 
 @article{liu2020simultaneously,
