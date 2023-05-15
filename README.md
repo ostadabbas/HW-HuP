@@ -1,7 +1,12 @@
 # Heuristic Weakly Supervised 3D Human Pose Estimation
 
+This is the official repository for:
+
+Liu, S., Wan, M., & Ostadabbas, S. "Heuristic Weakly Supervised 3D Human Pose Estimation." [[arXiv link]](https://arxiv.org/abs/2105.10996)
+
 ![HWS](images/HWS.png)
-This demo repo 
+
+
 ## Environment Setup
 Install packages listed in `requirements.txt`. 
  
