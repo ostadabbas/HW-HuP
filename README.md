@@ -4,7 +4,9 @@ This is the official repository for:
 
 Liu, S., Wan, M., & Ostadabbas, S. "Heuristic Weakly Supervised 3D Human Pose Estimation." [[arXiv link]](https://arxiv.org/abs/2105.10996)
 
-![HWS](images/HWS.png)
+<div align="center">
+<img src="images/HWS.png" alt="HW-HuP model" width="600"/>
+</div>
 
 
 ## Environment Setup
@@ -81,11 +83,15 @@ If you wanna your customized dataset, we also provide the depth smoothing script
 ## Demo Result on Real application without 3D annotation
 ### Real applicatioin on SLP dataset towards bed bound patient monitoring 
 
-![SLP_allC](images/allC.png)
+<div align="center">
+<img src="images/allC.png" alt="SLP_allC" width="600"/>
+</div>
 
 ### Infant pose via a phone camera 
  
-![alex_stair](images/alex_stair.gif)
+ <div align="center">
+<img src="images/alex_stair.gif" alt="alex_stair" width="600"/>
+</div>
 
 ## Acknowledgement 
 This code refers to the following repositories. Please also respect their LICENSE for specific usage.    
